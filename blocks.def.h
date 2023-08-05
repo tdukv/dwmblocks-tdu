@@ -37,8 +37,8 @@ static Block blocks[] =
 
    /*Icon*/ /*Command*/  /*Update Interval*/ /*Update Signal*/
    {fg2,  "sb-mpd",        0,     11},
-   {fg4,  "sb-disk",     300,      8},
-   {fg6,  "sb-mem",       30,     10},
+   /* {fg4,  "sb-disk",     300,      8}, */
+   /* {fg6,  "sb-mem",       30,     10}, */
    {fg2,  "sb-cpu",       10,      6},
    {fg6,  "sb-temp",      10,     13},
    {fg4,  "sb-bklt",       0,     15},
